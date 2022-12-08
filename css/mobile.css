@@ -15,3 +15,9 @@
 .courses .course {
   flex-direction: column;
 }
+.courses .course .course-info .description {
+  font-size: 1.1rem;
+  letter-spacing: 1.2px;
+  margin-bottom: 0.25rem;
+  opacity: 0.9;
+}
